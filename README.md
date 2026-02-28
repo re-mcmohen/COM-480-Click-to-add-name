@@ -25,11 +25,11 @@ The sources of these data are reliable and authoritative. However, due to coming
 
 
 Datasets:
-1. Life Expectancy at Birth (WHO)
+1. Life Expectancy at Birth (WHO):
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
-2. GDP per Capita (World Bank)
+2. GDP per Capita (World Bank):
 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
-3. NCD Mortality Rate (World Bank)
+3. NCD Mortality Rate (World Bank):
 https://data.worldbank.org/indicator/SH.DYN.NCOM.ZS
 
 ### Problematic
