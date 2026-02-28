@@ -27,10 +27,8 @@ The sources of these data are reliable and authoritative. However, due to coming
 Datasets:
 1. Life Expectancy at Birth (WHO)
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
-
 2. GDP per Capita (World Bank)
 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
-
 3. NCD Mortality Rate (World Bank)
 https://data.worldbank.org/indicator/SH.DYN.NCOM.ZS
 
@@ -64,9 +62,7 @@ All these works can be found in the Jupyter Notebook [`EDA.ipynb`](./data-prepro
 Key findings:
 
 1. On average across the dataset, women live 4.84 years longer than men.
-
 2. GDP and Life Expectancy maintain a strong logarithmic correlation
-
 3. Higher GDP tends to be associated with lower NCD mortality.
 However, substantial variance remains even among high-income countries.
 
